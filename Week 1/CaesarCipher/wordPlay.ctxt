@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=wordPlay
+comment0.text=\n\ Write\ a\ description\ of\ wordPlay\ here.\n\ \n\ @author\ Leonardo\ Garcia\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=input\ key
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ testReplaceVowels()
+comment11.params=
+comment11.target=void\ testemphasize()
+comment2.params=input\ key1\ key2
+comment2.target=java.lang.String\ encryptTwoKeys(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ testEncryptTwoKeys()
+comment4.params=
+comment4.target=void\ testCaesar()
+comment5.params=ch
+comment5.target=boolean\ isVowel(char)
+comment6.params=index
+comment6.target=boolean\ isEven(int)
+comment7.params=phrase\ ch
+comment7.target=java.lang.String\ replaceVowels(java.lang.String,\ char)
+comment8.params=phrase\ ch
+comment8.target=java.lang.String\ emphasize(java.lang.String,\ char)
+comment9.params=
+comment9.target=void\ testIsVowel()
+numComments=12
