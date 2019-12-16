@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=dnaHashMap
+comment0.text=\n\ Write\ a\ description\ of\ dnaHashMap\ here.\n\ \n\ @author\ Leonardo\ Garcia\ \n\ @version\ v1\n
+comment1.params=
+comment1.target=dnaHashMap()
+comment2.params=start\ end
+comment2.target=void\ printCodonCounts(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getMostCommonCodon()
+comment4.params=start\ dna
+comment4.target=void\ buildCodonMap(int,\ java.lang.String)
+comment5.params=
+comment5.target=void\ test()
+numComments=6

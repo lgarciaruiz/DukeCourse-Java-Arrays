@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=wordFreq
+comment0.text=\n\ Write\ a\ description\ of\ wordFreq\ here.\n\ Count\ occurences\ of\ words\n\ \n\ @author\ Leonardo\ Garcia\ \n\ @version\ v1\n
+comment1.params=
+comment1.target=wordFreq()
+comment2.params=
+comment2.target=void\ findUnique()
+comment3.params=
+comment3.target=int\ findIndexOfMax()
+comment4.params=
+comment4.target=void\ tester()
+numComments=5
